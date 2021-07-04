@@ -1,10 +1,10 @@
 {
   "shipping": {
-    "show": true,
+    "show": false,
     "text": "ENVIO PARA TODO BRASIL"
   },
   "installments": {
-    "show": true,
+    "show": false,
     "text": "TODA LOJA EM 12X SEM JUROS"
   },
   "exchange": {
