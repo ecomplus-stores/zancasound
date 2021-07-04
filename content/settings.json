@@ -1,24 +1,24 @@
 {
-  "store_id": 4210,
-  "name": "zancasound",
   "domain": "zancasound.netlify.app",
-  "short_name": "zancasound",
-  "description": "zancasound",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#ea5a2d",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/zancasound",
+  "logo": "/img/uploads/zanca-preto.png",
+  "name": "Zanca Sound",
+  "short_name": "Zanca Sound",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/f6324f5ae6.jpg",
   "country_code": "BR",
-  "repository": "ecomplus-stores/zancasound"
+  "secondary_color": "#000000",
+  "icon": "/img/uploads/f6324f5ae6.jpg",
+  "store_id": 4210,
+  "description": "Zanca Sound nosso quesito é qualidade!",
+  "large_icon": "/img/uploads/f6324f5ae6.jpg"
 }
