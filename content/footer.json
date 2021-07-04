@@ -1,7 +1,7 @@
 {
   "description": {
-    "title": "",
-    "text": ""
+    "title": "Teste",
+    "text": "Teste"
   },
   "links_1": {
     "list_pages": true,
@@ -24,6 +24,9 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
+    },
+    {
+      "src": "/img/uploads/stamp_encryptssl.png"
     }
   ],
   "payment_methods": {
