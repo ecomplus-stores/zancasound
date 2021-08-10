@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.25285536ad1b6e3966d277c286b3bcdc.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.f5c8bb8f9102b247c450af79d6b5e802.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.00f7cf7601b5619d817f2e5438c8774d.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.8c67007ac99c58d8b162fa62e7a0cafc.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.007963b633c33b80483a1616e07b17dc.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Zanca Sound",
+  "short_name": "Zanca Sound",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Zanca Sound nosso quesito é qualidade!",
+  "background_color": "#ffffff",
+  "theme_color": "#ea5a2d"
+}
